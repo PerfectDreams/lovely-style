@@ -31,6 +31,8 @@ button {
 
     &[disabled] {
         cursor: not-allowed;
+        background-color: #747f8d;
+        opacity: .5;
     }
 }
 
